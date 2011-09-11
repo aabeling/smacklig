@@ -1,4 +1,4 @@
-package de.banapple.smacky;
+package de.banapple.smacklig;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;

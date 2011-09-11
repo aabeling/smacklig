@@ -1,0 +1,9 @@
+https://github.com/aabeling/smacky
+
+push to github:
+
+git remote add origin git@github.com:aabeling/smacky.git
+git push -u origin master
+
+vorher 
+git remote rm origin

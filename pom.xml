@@ -31,7 +31,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>de.banapple.smacky.MessageSender</mainClass>
+                        <mainClass>de.banapple.smacklig.MessageSender</mainClass>
                     </manifest>
                 </archive>
                 <descriptorRefs>
